@@ -1,0 +1,17 @@
+/*this is for the about and index page*/
+
+h1 {
+    font-family: papyrus;
+}
+
+li {
+    padding-bottom: 4px;
+}
+
+.intro {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingSpace {
+    padding-bottom: 20px;
+}
